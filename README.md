@@ -1,2 +1,2 @@
-# starter
-first things 
+# New GitHub yay!
+ 
